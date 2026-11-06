@@ -10,3 +10,8 @@
 - ラボ・試作品・検査ロボは架空です。値は、一般的なヒトの値を目安に置いた模型の値で、実際の機器を測った値や、病気の判定ではありません
 
 このリポジトリには、本体（HarutoyoHirano/mitate-lab）から `npm run build:trial` でつくった一枚の HTML だけを入れています。
+
+## ライセンスとソース
+GNU Affero General Public License v3.0（AGPL-3.0-only。全文は `LICENSE`）。Copyright (C) 2026 Harutoyo Hirano
+
+この HTML のソースは https://github.com/HarutoyoHirano/mitate-lab にあります。
