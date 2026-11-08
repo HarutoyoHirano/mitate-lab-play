@@ -15,3 +15,6 @@
 GNU Affero General Public License v3.0（AGPL-3.0-only。全文は `LICENSE`）。Copyright (C) 2026 Harutoyo Hirano
 
 この HTML のソースは https://github.com/HarutoyoHirano/mitate-lab にあります。
+
+## 使っている外部のソフトウェア
+この HTML には @anthropic-ai/sdk（MIT License、Copyright 2023 Anthropic, PBC.）のコードが含まれています。MIT License の全文と著作権表示は、`index.html` の先頭の注釈に入れています。
