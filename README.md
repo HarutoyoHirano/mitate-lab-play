@@ -12,7 +12,7 @@
 このリポジトリには、本体（HarutoyoHirano/mitate-lab）から `npm run build:trial` でつくった一枚の HTML だけを入れています。
 
 ## ライセンスとソース
-GNU Affero General Public License v3.0（AGPL-3.0-only。全文は `LICENSE`）。Copyright (C) 2026 Harutoyo Hirano
+GNU Affero General Public License v3.0（AGPL-3.0-only。全文は `LICENSE`）。Copyright (C) 2026 mitate-lab authors
 
 この HTML のソースは https://github.com/HarutoyoHirano/mitate-lab にあります。
 
